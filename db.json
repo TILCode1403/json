@@ -1,0 +1,234 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "menu": "Home",
+      "active": true
+    },
+    {
+      "id": 2,
+      "menu": "Trending",
+      "active": false
+    },
+    {
+      "id": 3,
+      "menu": "Clothing",
+      "active": false
+    },
+    {
+      "id": 4,
+      "menu": "Dresses",
+      "active": false
+    },
+    {
+      "id": 5,
+      "menu": "Shoes",
+      "active": false
+    },
+    {
+      "id": 6,
+      "menu": "Shoes",
+      "active": false
+    },
+    {
+      "id": 7,
+      "menu": "Accessories",
+      "active": false
+    },
+    {
+      "id": 8,
+      "menu": "Sportwear",
+      "active": false
+    }
+  ],
+  "Slider": [
+    {
+      "id": 1,
+      "active": true,
+      "src": "./image/slideTen.png",
+      "h1": "Best T-Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 2,
+      "active": false,
+      "src": "./image/slideTen.png",
+      "h1": "Best T-Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 3,
+      "active": false,
+      "src": "./image/slideTen.png",
+      "h1": "Best T-Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 4,
+      "active": false,
+      "src": "./image/slideTen.png",
+      "h1": "Best T-Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 5,
+      "active": false,
+      "src": "./image/slideTen.png",
+      "h1": "Best T-Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 6,
+      "active": false,
+      "src": "./image/slideTen.png",
+      "h1": "Best T-Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 7,
+      "active": false,
+      "src": "./image/slideTen.png",
+      "h1": "Best T-Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 8,
+      "active": false,
+      "src": "./image/slideTen.png",
+      "h1": "Best T-Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    }
+  ],
+  "Recommended-slider": [
+    {
+      "id": 1,
+      "src": "./image/product1/1.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$120,000"
+    },
+    {
+      "id": 2,
+      "src": "./image/product1/2.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$20,000"
+    },
+    {
+      "id": 3,
+      "src": "./image/product1/3.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$40,000"
+    },
+    {
+      "id": 4,
+      "src": "./image/product1/1.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$30,000"
+    },
+    {
+      "id": 5,
+      "src": "./image/product1/2.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$10,000"
+    },
+    {
+      "id": 6,
+      "src": "./image/product1/3.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$90,000"
+    },
+    {
+      "id": 7,
+      "src": "./image/product1/4.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$100,000"
+    },
+    {
+      "id": 8,
+      "src": "./image/product1/5.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$50,000"
+    }
+  ],
+  "What-New-slider": [
+    {
+      "id": 1,
+      "src": "./image/product1/1.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$120,000"
+    },
+    {
+      "id": 2,
+      "src": "./image/product1/2.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$20,000"
+    },
+    {
+      "id": 3,
+      "src": "./image/product1/3.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$40,000"
+    },
+    {
+      "id": 4,
+      "src": "./image/product1/1.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$30,000"
+    },
+    {
+      "id": 5,
+      "src": "./image/product1/2.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$10,000"
+    },
+    {
+      "id": 6,
+      "src": "./image/product1/3.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$90,000"
+    },
+    {
+      "id": 7,
+      "src": "./image/product1/4.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$100,000"
+    },
+    {
+      "id": 8,
+      "src": "./image/product1/5.png",
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet...",
+      "gender": "Man",
+      "price": "$50,000"
+    }
+  ]
+}
